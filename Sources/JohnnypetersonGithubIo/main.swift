@@ -14,9 +14,9 @@ struct JohnnypetersonGithubIo: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
-    var name = "JohnnypetersonGithubIo"
-    var description = "A description of JohnnypetersonGithubIo"
+    var url = URL(string: "https://johnnypeterson.github.io")!
+    var name = "Johnny's Swift Apps"
+    var description = "A Software Engineer with a passion for mobile apps!"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
